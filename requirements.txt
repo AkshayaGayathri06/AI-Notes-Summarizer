@@ -1,0 +1,5 @@
+streamlit
+pypdf
+python-dotenv
+google-genai
+streamlit-agraph
